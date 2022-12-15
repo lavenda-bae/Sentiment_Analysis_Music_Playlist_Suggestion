@@ -7,3 +7,6 @@ Reference
 데이터 출처 
 Kakao Arena Melon 'Playlist Continuation'
 AI hub '감성 분석 말뭉치'
+
+가공 데이터 
+https://drive.google.com/file/d/1qMf0-JvoEJwLu8hLF-wqVNeRcq9aunGS/view?usp=share_link
