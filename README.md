@@ -1,5 +1,7 @@
 # Sentiment_Analysis_Music_Playlist_Suggestion
  Sentiment_Analysis_Music_Playlist_Suggestion
+ 
+CBF 기반 User Recommendation System
 
 Reference 
 추천시스템 레퍼런스 'HaeJung1016 / arena_melon'
